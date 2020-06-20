@@ -14,3 +14,4 @@
 
 
 Observações: Pretendo em algum futuro utilizar mais coisas da API, as poucas que utilizei não são nada comparado a quantas coisas estão disponíveis nela
+Não consegui mudar o tamanho da fonte da flatlist, isso deixou um visual bem ESTRANHO que eu queria mudar
