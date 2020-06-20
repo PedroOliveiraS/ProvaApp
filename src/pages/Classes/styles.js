@@ -18,12 +18,13 @@ export const Header = styled.View`
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
     border: 2px solid;
+    border-color: #1A545E;
     flex-direction: column;
     margin-bottom: 5px;
 `;
 
 export const Name = styled.Text`
-    color: #000;
+    color: #DEDFDF;
     font-size: 35px;
     font-weight: bold;
     margin-top: 15px;
